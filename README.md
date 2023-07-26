@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajesh562020
-- 👀 I’m interested in ...FE,BE;
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...BackEnd projects;
+- 👀 I’m interested in ...MERN;
+- 🌱 I’m currently learning ...Typescript;
+- 💞️ I’m looking to collaborate on ...Fullstack projects;
 - 📫 How to reach me ...rajesh.mehra56@gmail.com
 
 <!---
